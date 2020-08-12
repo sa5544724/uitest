@@ -20,3 +20,6 @@ html_runner=HTMLTestRunner.HTMLTestRunner(stream=file,
                                               title='whytest',
                                           description='测试描述')
 html_runner.run(main_suite)
+
+
+print('whya')
